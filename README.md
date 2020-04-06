@@ -31,11 +31,11 @@ cat.10004.jpg
 ```
 下面是训练集的一部分例子：
 
-![](https://raw.githubusercontent.com/ypwhs/resources/master/dataset.png)
+![train_dataset](/image/train_dataset.png)
 
+最后是kaggle上的得分:
 
-
-
+![kaggle_score](/image/kaggle_score.jpg)
 
 
 
